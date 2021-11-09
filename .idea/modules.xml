@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Portfolio Website/.idea/Portfolio Website.iml" filepath="$PROJECT_DIR$/../Portfolio Website/.idea/Portfolio Website.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../CS50 Projects/pset9/finance/.idea/finance.iml" filepath="$PROJECT_DIR$/../CS50 Projects/pset9/finance/.idea/finance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/weightCalculator.iml" filepath="$PROJECT_DIR$/.idea/weightCalculator.iml" />
     </modules>
   </component>

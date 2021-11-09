@@ -176,4 +176,6 @@ def main(targets=[100, 140, 150]):
     for i in final_group[0]:
         print("Group: {} -> {} with {} swaps".format(i, *final_options[i], final_options[i][1]))
 
-main()
+
+if __name__ == '__main__':
+    main()
